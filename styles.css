@@ -1,0 +1,14 @@
+.quarto-title-block {
+  margin-bottom: 1.5rem;
+}
+
+.leaflet {
+  border: 1px solid #d6ddd8;
+  border-radius: 0.75rem;
+}
+
+blockquote {
+  background: #f5f2e9;
+  border-left-color: #d26545;
+  color: #333b36;
+}

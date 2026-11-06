@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Florida’s Invasive Snakes",
+    "section": "",
+    "text": "This map combines public observations of three non-native snakes. County shading shows how many of the selected species have been recorded in each area; select a county to see each species’ record count.\n\nRecords are not a population census. Sightings are unevenly reported, and a snake may be reported more than once. A county with more records does not necessarily have more snakes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecies\nRecorded observations\n\n\n\n\nBrahminy blindsnake\n1,925\n\n\nBurmese python\n723\n\n\nBoa constrictor\n24\n\n\n\n\n\nThe map uses a November 6, 2026 snapshot of public, non-captive iNaturalist observations for Brahminy blindsnakes, Burmese pythons, and Boa constrictors. Records with no public map location are excluded. Points were counted within county boundaries from the U.S. Census TIGERweb county map; private locations are not shown."
+  },
+  {
+    "objectID": "index.html#invasive-snake-observations-by-county",
+    "href": "index.html#invasive-snake-observations-by-county",
+    "title": "Florida’s Invasive Snakes",
+    "section": "",
+    "text": "This map combines public observations of three non-native snakes. County shading shows how many of the selected species have been recorded in each area; select a county to see each species’ record count.\n\nRecords are not a population census. Sightings are unevenly reported, and a snake may be reported more than once. A county with more records does not necessarily have more snakes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecies\nRecorded observations\n\n\n\n\nBrahminy blindsnake\n1,925\n\n\nBurmese python\n723\n\n\nBoa constrictor\n24\n\n\n\n\n\nThe map uses a November 6, 2026 snapshot of public, non-captive iNaturalist observations for Brahminy blindsnakes, Burmese pythons, and Boa constrictors. Records with no public map location are excluded. Points were counted within county boundaries from the U.S. Census TIGERweb county map; private locations are not shown."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
